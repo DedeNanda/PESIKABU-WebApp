@@ -11,12 +11,10 @@
   <p>
    Website portofolio pertama yang saya buat untuk memulai project menggunakan HTML, CSS, JAVASCRIPT dengan boostrap, Jsdelivr, dan Boxicon.
   </p>
-  <h2>Demo</h2>
-  https://portofolio-m-dede-nanda-pratama.vercel.app
   <h2>Cara Menjalankan Proyek</h2>
   <ol>
     <li>Clone repository ini:
-      <pre><code>git clone https://github.com/DedeNanda/Portofolio-M.-Dede-Nanda-Pratama</code></pre>
+      <pre><code>git clone https://github.com/DedeNanda/PESIKABU.git</code></pre>
     </li>
   </ol>
 
