@@ -8,9 +8,24 @@
 </p>
 
 <h2>Deskripsi</h2>
-  <p>
-   Website portofolio pertama yang saya buat untuk memulai project menggunakan HTML, CSS, JAVASCRIPT dengan boostrap, Jsdelivr, dan Boxicon.
+  <p>PESIKABU adalah situs web yang didedikasikan untuk membantu siswa memerangi dan mencegah perundungan di sekolah. Kami memahami bahwa perundungan dapat berdampak negatif pada kesehatan fisik, emosional, dan akademik siswa. Oleh karena itu, PESIKABU hadir untuk memberikan solusi dan dukungan yang diperlukan. Untuk melaporkan sebuah insiden, silakan buat akun terlebih dahulu. Setelah Anda mendaftar dan membuat akun, Anda dapat mengirimkan laporan setelah login. Project PESIKABU menggunakan Laravel (PHP), Javascript, boostrap, dan Font Awesome.
   </p>
+  <h2>Akun Admin</h2>
+  <h4>admin 1</h4>
+  <p>email : admin1@gmail.com</p>
+  <p>pw : #*admin123*#</p>
+  <h4>admin 2</h4>
+  <p>email : admin2@gmail.com</p>
+  <p>pw : #*admin1234*#</p>
+  <p></p>
+  <h2>Akun User</h2>
+  <h4>user 1</h4>
+  <p>email : user1@gmail.com</p>
+  <p>pw : user123</p>
+  <h4>user 2</h4>
+  <p>email : user2@gmail.com</p>
+  <p>pw : user123</p>
+  <p></p>
   <h2>Cara Menjalankan Proyek</h2>
   <ol>
     <li>Clone repository ini:
