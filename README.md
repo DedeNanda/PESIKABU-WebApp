@@ -29,7 +29,7 @@
   <h2>Cara Menjalankan Proyek</h2>
   <ol>
     <li>Clone repository ini:
-      <pre><code>git clone https://github.com/DedeNanda/PESIKABU.git</code></pre>
+      <pre><code>git clone https://github.com/DedeNanda/PESIKABU-WebApp.git</code></pre>
     </li>
   </ol>
 
