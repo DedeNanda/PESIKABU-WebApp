@@ -1,0 +1,99 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+}
+
+@page {
+    size: A4 landscape;
+    margin: 1cm;
+}
+
+.header {
+    text-align: center;
+}
+
+.header img.left-logo {
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    width: 80px;
+    height: auto;
+}
+
+.header img.right-logo {
+    position: absolute;
+    top: 20px;
+    left: 750px;
+    width: 100px;
+    height: auto;
+}
+
+hr {
+    border: 0;
+    height: 4px;
+    background: #000;
+    margin: 5px auto;
+    width: 1050px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+    width: 10%;
+    vertical-align: top;
+}
+
+.nomor {
+    width: 15px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 240px 0;
+    display: flex;
+}
+
+.footer .ttd-kiri,
+.footer .ttd-tengah,
+.footer .ttd-kanan {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+.left {
+    text-align: left;
+    margin-left: 40px; 
+}
+
+.left1 {
+    text-align: left;
+    margin-left: 100px;
+}
+
+.left2 {
+    text-align: left;
+    margin-left: 120px;
+}
